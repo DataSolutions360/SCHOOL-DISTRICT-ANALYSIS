@@ -4,4 +4,4 @@
 
 ## Resources ##
 
-**Resources:** All data used in this analysis can be found inside of the 
+**Resources:** All data used in this analysis can be found inside of the [Resources](https://github.com/DataSolutions360/SCHOOL-DISTRICT-ANALYSIS/tree/main/Resources) folder.

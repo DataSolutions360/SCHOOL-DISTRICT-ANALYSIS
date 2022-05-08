@@ -55,5 +55,9 @@ Charter schools generally perform better than District school, with a 90% vs 54%
 
 ## Analysis of Performance based on Grade Level ##
 
-Just as we found in Student Spend,  there is little to no significance in the Grade Level(9th vs 10-12th).  The averages 
+Just as we found in Student Spend, there is little to no significance in the Grade Level(9th vs 10-12th) passing %.  The grade level percent
+differences 9th vs 10-12th show 1-2% differences, but there is more significant differences from school to school.
+
+[Here]https://github.com/DataSolutions360/SCHOOL-DISTRICT-ANALYSIS/blob/main/Images/CODE17.PNG is where you can find a detail breakdown 
+of individual high schools by grade.
 

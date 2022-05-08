@@ -32,8 +32,10 @@ Below is a summary of the DISTRICT after omitting ninth graders' scores with NaN
     
 ## Analysis of School Budget and School Size ##
 
-The analyses that the average scores and passing percentages do NOT have a significant effect, with respect to spend poer student.  
-
+The analyses that the average scores and passing percentages do NOT have a significant effect, with respect to spend per student.  
+Cabera High School received $68 *LESS* per student as top performer, compared to John High School, which is one of the lowest performing schools.
+This elludes to the point that more spend per student does *NOT* correlate to better performing scores.  
+More factoral analysis is required further, if desired.
 
 ![image](https://user-images.githubusercontent.com/8845050/167283724-438ee1d6-4792-4435-8524-6d7648dd4a62.png)
 

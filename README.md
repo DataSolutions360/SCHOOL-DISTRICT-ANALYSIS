@@ -29,3 +29,7 @@ Below is a summary of the DISTRICT after omitting ninth graders' scores with NaN
     which is significant for this analysis)
     - School Rankings remained unchanged.  Thomas High School is still the 2nd best performing school in the district with an overpassing 
     rate of 90.6% for 10-12th graders
+
+![image](https://user-images.githubusercontent.com/8845050/167283724-438ee1d6-4792-4435-8524-6d7648dd4a62.png)
+
+

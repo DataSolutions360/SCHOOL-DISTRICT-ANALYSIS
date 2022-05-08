@@ -40,6 +40,10 @@ correlation to spend vs performance.
 
 ![image](https://user-images.githubusercontent.com/8845050/167283724-438ee1d6-4792-4435-8524-6d7648dd4a62.png)
 
+When looking at School Size as a factor for analysis, Large Schools have the *LOWEST* average scores, as well as passing percentage.  
+At this level of consideration, individual subject content(reading vs math) are not a facotr, and over passing is the sole deciding factor.
+Small and Medium schools are 90 and 91%, respectively, hence negligible difference.
+
 ![image](https://user-images.githubusercontent.com/8845050/167286113-1be90818-270b-485f-b06c-904a3dbd1ab1.png)
 
 

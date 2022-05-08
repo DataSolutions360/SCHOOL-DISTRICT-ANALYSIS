@@ -48,5 +48,9 @@ Small and Medium schools are 90 and 91%, respectively, hence negligible differen
 
 ## School Type:  CHarter vs District Schools ##
 
+As stated in prior analysis, we will look at Overall Passing % to determine the efficacy of this "slice".  It is determined that 
+Charter schools generally perform better than District school, with a 90% vs 54% respective pass rate.
+
+![image](https://user-images.githubusercontent.com/8845050/167286454-2cc64207-0a72-441c-b5df-9c75bcbf30e7.png)
 
 

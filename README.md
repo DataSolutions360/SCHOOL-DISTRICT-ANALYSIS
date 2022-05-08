@@ -46,5 +46,7 @@ Small and Medium schools are 90 and 91%, respectively, hence negligible differen
 
 ![image](https://user-images.githubusercontent.com/8845050/167286113-1be90818-270b-485f-b06c-904a3dbd1ab1.png)
 
+## School Type:  CHarter vs District Schools ##
+
 
 

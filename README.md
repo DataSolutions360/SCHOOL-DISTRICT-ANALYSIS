@@ -74,6 +74,6 @@ the inclusion of AVERAGE SCORES may not have been so noticeable, EXCLUSION of HI
 This also affected their overall rankings within the top 5 schools within the district.  With the omission of the ninth grader 
 scores(removed from consideration), Thomas High School regained it's place as #2 among the DIstrict in overall performance.    
 
-If you would like more clarity on the topics, and snippets of code to understand the analysis logic, please click on the like [HERE}(https://github.com/DataSolutions360/SCHOOL-DISTRICT-ANALYSIS/tree/main/Images)
+If you would like more clarity on the topics, and snippets of code to understand the analysis logic, please click on the like [HERE](https://github.com/DataSolutions360/SCHOOL-DISTRICT-ANALYSIS/tree/main/Images)
     
 

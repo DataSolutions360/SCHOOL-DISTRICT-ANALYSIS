@@ -25,5 +25,7 @@ Below is a summary of the DISTRICT after omitting ninth graders' scores with NaN
   When the ninth graders of Thomas High School had their scores omitted from the calculations, the following changes occured:
   
     - The overall passing percentages of Thomas High School decreased by 0.11%
-    - The averahe scores of Thomas High School for math and reading increased by 0.06% (little change, but not negatively impacting, which is significant for this        analysis)
-    - School Rankings remained unchanged.  Thomas High School is still the 2nd best performing school in the district with an overpassing rate of 90.6% for 10-12th graders
+    - The averahe scores of Thomas High School for math and reading increased by 0.06% (little change, but not negatively impacting, 
+    which is significant for this analysis)
+    - School Rankings remained unchanged.  Thomas High School is still the 2nd best performing school in the district with an overpassing 
+    rate of 90.6% for 10-12th graders

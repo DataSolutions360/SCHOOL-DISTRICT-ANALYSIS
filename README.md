@@ -15,3 +15,9 @@ The analysis to an audit on the scoring impact of the ninth grade students of Th
 Below is a summary of the DISTRICT after omitting ninth graders' scores with NaN.
 
 ![image](https://user-images.githubusercontent.com/8845050/167273554-bfa46998-f240-4cbf-a257-c82fe92b1331.png)
+
+  Since replacing the ninth graders' reading and math scores with NaN, the following changes int he results for Thomas High School are as follows:
+  
+    - Overall passing percent for Thomas High School fell to 65%
+    - Overall passing percent for entire school district fell to 64.9%
+    - Thomas High School fell out of the top five schools

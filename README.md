@@ -16,7 +16,7 @@ Below is a summary of the DISTRICT after omitting ninth graders' scores with NaN
 
 ![image](https://user-images.githubusercontent.com/8845050/167273554-bfa46998-f240-4cbf-a257-c82fe92b1331.png)
 
-  Since replacing the ninth graders' reading and math scores with NaN, the following changes int he results for Thomas High School are as follows:
+  Since replacing the ninth graders' reading and math scores with NaN, the following changes in the results for Thomas High School are as follows:
   
     - Overall passing percent for Thomas High School fell to 65%
     - Overall passing percent for entire school district fell to 64.9%
@@ -60,4 +60,20 @@ differences 9th vs 10-12th show 1-2% differences, but there is more significant 
 
 [Here](https://github.com/DataSolutions360/SCHOOL-DISTRICT-ANALYSIS/blob/main/Images/CODE17.PNG) is where you can find a detail breakdown 
 of individual high schools by grade.
+
+## SUMMARY ##
+
+Was this Analysis effective?  While the analysis did not shed much light on what is causing potential disconcerting activity within the district,
+we did rule out certain factors(grade level, school size, per student spend, etc.)  The objective and analyses is to uncover potential anomalies, 
+not to judge the analysis on whether the findings are significantly impacting the hypothesis.  For example, forcing a positive result when unbiased 
+results would show false(Type I error) and failing to show efficacy during an analysis that should yield positive results(type II error) 
+are the Analyst's main concerns when running analysis or any kind(unbiasedly).
+
+Removal of ninth graders' score(making them NaN) originally caused Thomas High School's overall passing percentages to tank.  While 
+the inclusion of AVERAGE SCORES may not have been so noticeable, EXCLUSION of HIGHS CORES does the contrary to the overall.  
+This also affected their overall rankings within the top 5 schools within the district.  With the omission of the ninth grader 
+scores(removed from consideration), Thomas High School regained it's place as #2 among the DIstrict in overall performance.    
+
+
+    
 
